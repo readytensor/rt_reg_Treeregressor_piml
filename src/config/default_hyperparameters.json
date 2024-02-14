@@ -1,0 +1,5 @@
+{
+  "criterion": "squared_error",
+  "max_depth": 5,
+  "splitter": "best"
+}
