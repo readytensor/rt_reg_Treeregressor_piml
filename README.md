@@ -1,4 +1,4 @@
-# DecisonTree Regression with Shapley Explanations
+# DecisonTree Regression in PiML with Shapley Explanations
 ## Project Description
 This repository is a dockerized implementation of the DecisonTree regressor. It is implemented in flexible way that it can be used with any regression dataset with the use of JSON-formatted data schema file.
 The main purpose of this repository is to provide a complete example of a machine learning model implementation that is ready for deployment.
